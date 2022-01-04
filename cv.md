@@ -8,13 +8,17 @@ e-mail: stanislav.badyoukov@mail.ru
 *JS
 *HTML&CSS
 *React (begginer)
-5. Code exaцmple:
+*Angular (begginer)
+*C# .NET
+5. Code example:
 ```
 function multiply(a, b){
   return a * b
 }
 ```
-6. phonebook-angular (HTML,Angular,C#,.NET)
+6. Some pet-projects of mine:
+phonebook-angular (HTML,Angular,C#,.NET)
 [https://github.com/StanislavBadyoukov/phonebook-angular]
-7. Finished VSTU as software engineer. Had many attempts to study different frameworks, but never had enough time and will to finish 'em.
-8. B2-C1 (I had very much practice incoming from videogames and catering shifts as a bartender)
+7. Education:
+Finished VSTU as software engineer. Had many attempts to study different frameworks, but never had enough time and will to finish 'em.
+8. My English level is about B2-C1 (I had very much practice incoming from videogames and catering shifts as a bartender)
