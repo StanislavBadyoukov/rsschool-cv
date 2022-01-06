@@ -1,4 +1,22 @@
-.html{
+body{
     display: flex;
 }
 
+header {
+    background-color: red;
+}
+
+main {
+    background-color: red;
+}
+
+footer {
+    color: red;
+}
+
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
