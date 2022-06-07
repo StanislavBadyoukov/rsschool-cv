@@ -3,7 +3,7 @@
 1. My name is Stanislav Badyoukov.
 2. Contacts:
 e-mail: stanislav.badyoukov@mail.ru
-3. I've finished my studies in Vitebsk State Technological University as software engineer. I'm working as technical support specialist at Resurscontrol company at the moment. I really want to get this job 'cause my wife and two lil pugs need me to live in prosperity.
+3. I've finished my studies in Vitebsk State Technological University as software engineer. I'm working as technical support specialist at Resurscontrol company at the moment. I really want to get this job 'cause my wife and two lil' pugs need me to live in prosperity.
 4. Skills:
 *JS
 *HTML&CSS
